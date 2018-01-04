@@ -25,3 +25,52 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
+
+### Aula 03 - [Criando novas páginas e componentes](aulas/aula03/aula.md)
+
+**Objetivos:** Criação de novos componentes e compreensão do vue-router.<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 04 - [Eventos e métodos](aulas/aula04/aula.md)
+
+**Objetivos:** Compreender como ouvir os eventos da página e disparar métodos.<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 05 - [Estruturas Condicionais](aulas/aula05/aula.md)
+
+**Objetivos:** Aprender a aproveitar o poder das estruturas condicionais<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 06 - [Estruturas de Repetição](aulas/aula06/aula.md)
+
+**Objetivos:** Aprender a aproveitar o poder das estruturas repetição<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 07 - [Comunicação entre componentes](aulas/aula07/aula.md)
+
+**Objetivos:**<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 08 - [Comunicação entre componentes com VUEX](aulas/aula08/aula.md)
+
+**Objetivos:**<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
+
+### Aula 09 - [Consumindo uma API](aulas/aula09/aula.md)
+
+**Objetivos:** Entender sobre os protocólos HTTP, como fazer requisições, e consumir serviços.<br>
+**Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
+**Ferramentas e materiais de apoio:**<br>
+**Duração:** 3 horas.
