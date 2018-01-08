@@ -2,7 +2,7 @@
 
 Um evento é algo que acontece. Há muitas coisas acontecendo em nosso navegador, logo há muitos eventos também, um usuário pode clicar em botões, subir ou descer o scroll da página, pressionar botões do teclado, etc. 
 
-Nós podemos manipular esses eventos que acontecem e criar funcionalidades interessantes em nossas interfaces conforme houver necessidade. Nóssas interfaces devem oferecer interação com o usuário, uma forma de oferecer isso é criando a possibilidade de eventos acontecerem.
+Nós podemos manipular esses eventos que acontecem e criar funcionalidades interessantes em nossas interfaces conforme houver necessidade. Nossas interfaces devem oferecer interação com o usuário, uma forma de oferecer isso é criando a possibilidade de eventos acontecerem.
 
 O vue oferece uma diretiva interessante chamada [v-on](https://br.vuejs.org/v2/guide/events.html#Escutando-Eventos), podemos usa-la para escutar os [eventos](https://pt.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events/a/dom-event-types) do DOM em nossa página e adicionar alguma modificação quando eventos forem chamados. Exemplo:
 
@@ -28,12 +28,14 @@ export default {
 ```
 ![img01](assets/img01.png)
 
-Já adicionamos nossa diretiva, mas não tinhamos feito nada com ela ainda. Agora vamos fazer isso! Vamos alterar o valor da nossa variável frase, quando o evento click for chamado vamos alterar esssa frase.
+Já adicionamos nossa diretiva, mas não tinhamos feito nada com ela ainda. Agora vamos fazer isso! Vamos alterar o valor da nossa variável frase, quando o evento click for chamado vamos alterar esssa frase. 
+
+Uma alternativa ao v-on é o @. É só um atalho para escrever menos letras.
 
 ```vue
 <template>
   <div>
-    <button v-on:click="frase = 'Olá mundo'">{{frase}}</button>
+    <button @click="frase = 'Olá mundo'">{{frase}}</button>
   </div>
 </template>
 
@@ -59,7 +61,7 @@ Precisamos nesse próximo exemplo capturar o evento de click e disparar um méto
   <div>
     <p>Clique para fotografar</p>
     <img src="https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/camera.png?raw=true"
-         v-on:click>
+         @click>
     <img :src="foto">
   </div>
 </template>
@@ -86,7 +88,7 @@ Abaixo de data, adicionamos methods, é onde podemos incluir os nossos métodos.
   <div>
     <p>Clique para fotografar</p>
     <img src="https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/camera.png?raw=true"
-         v-on:click="tiraFoto()">
+         @click="tiraFoto()">
     <img :src="foto">
   </div>
 </template>
