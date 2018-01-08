@@ -54,7 +54,11 @@ export default {
 
 ## Combinando eventos e métodos
 
-Precisamos nesse próximo exemplo capturar o evento de click e disparar um método quando ele for chamado. Como já aprendemos, vamos usar a diretiva v-on, e para escutar o click v-on:click
+Um método é uma forma de fazer algo, ou uma chamada para uma ação. Trazendo para o mundo real, o objeto lápis pode colorir, ou riscar, então dizemos que colorir e riscar são métodos do lápis. 
+
+Na programação, poderíamos criar outros métodos, o lápis poderia ter o método apagar, ou o método cortar também, por menos legal que isso possa aparecer, podemos criar o que quisermos.
+
+No próximo exemplo, queremos capturar o evento de click e disparar um método quando ele for chamado. Como já aprendemos, vamos usar a diretiva v-on, e para escutar o click v-on:click
 
 ```vue
 <template>
