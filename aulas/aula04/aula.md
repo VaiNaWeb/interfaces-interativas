@@ -1,8 +1,10 @@
 # Eventos e Métodos
 
-Há muitos eventos que acontecem em nossa página, como eventos do mouse, eventos do teclado, etc. E podemos manipula-los conforme nossas necessidades.
+Um evento é algo que acontece. Há muitas coisas acontecendo em nosso navegador, logo há muitos eventos também, um usuário pode clicar em botões, subir ou descer o scroll da página, pressionar botões do teclado, etc. 
 
-Mais uma diretiva bem legal do Vue é a [v-on](https://br.vuejs.org/v2/guide/events.html#Escutando-Eventos), podemos usa-la para escutar os [eventos](https://pt.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events/a/dom-event-types) do DOM em nossa página e adicionar alguma modificação quando eventos forem chamados. Exemplo:
+Nós podemos manipular esses eventos que acontecem e criar funcionalidades interessantes em nossas interfaces conforme houver necessidade. Nóssas interfaces devem oferecer interação com o usuário, uma forma de oferecer isso é criando a possibilidade de eventos acontecerem.
+
+O vue oferece uma diretiva interessante chamada [v-on](https://br.vuejs.org/v2/guide/events.html#Escutando-Eventos), podemos usa-la para escutar os [eventos](https://pt.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-events/a/dom-event-types) do DOM em nossa página e adicionar alguma modificação quando eventos forem chamados. Exemplo:
 
 Queremos escutar o evento Click do mouse em um botão, então adicionamos dentro da tag desse botão a diretiva v-on:click. 
 
