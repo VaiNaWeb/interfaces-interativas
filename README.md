@@ -56,14 +56,14 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 
 ### Aula 07 - [Comunicação entre componentes](aulas/aula07/aula.md)
 
-**Objetivos:**<br>
+**Objetivos:** Compreender e fazer uso da comunicação simples de propriedades entre componentes<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
 ### Aula 08 - [Comunicação entre componentes com VUEX](aulas/aula08/aula.md)
 
-**Objetivos:**<br>
+**Objetivos:** Compreender e fazer uso de um dos métodos mais avançados para comunicação entre componentes usando o VUEX.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
