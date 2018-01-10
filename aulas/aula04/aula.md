@@ -85,14 +85,14 @@ export default {
 
 Temos duas imagens, a primeira é a câmera, onde adicionamos a nossa diretiva para capturar o click, e a segunda recebe uma variável foto que começa vazia. Quando o evento click for chamado, vamos chamar um método para adicionar uma imagem em nossa tag img adicionando o link de uma imagem dentro da variável vazia que criamos.
 
-Abaixo de data, adicionamos methods, é onde podemos incluir os nossos métodos. Podemos entender um método como uma ação. Criamos agora nosso método, e chamamos ele de tiraFoto()
+Abaixo de data, adicionamos methods, um lugar onde podemos criar nossos métodos. Lembrando que podemos entender um método como uma ação, a ação que queremos criar aqui é fotografar, então vamos criar um método e chamar ele de fotografa()
 
 ```vue
 <template>
   <div>
     <p>Clique para fotografar</p>
     <img src="https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/camera.png?raw=true"
-         @click="tiraFoto()">
+         @click="fotografa()">
     <img :src="foto">
   </div>
 </template>
@@ -106,7 +106,7 @@ export default {
     }
   },
   methods: {
-    tiraFoto() {
+    fotografa() {
       return this.foto = 'https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/img05.jpg?raw=true'
     }
   }
