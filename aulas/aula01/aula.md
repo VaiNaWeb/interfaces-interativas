@@ -1,6 +1,6 @@
 ## Javascript
 
-Vamos começar a desbravar o fantástico mundo do **Javascript**, a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
+Vamos começar a desbravar o fantástico mundo do [Javascript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps), a linguagem de programação mais popular do mundo, muito poderosa e que está em todos os lugares. Podemos encontra-la em robôs, aplicações web, mobile, e em tantas outras coisas, inclusive em seu navegador.
 
 Faça o teste! Clique com o botão direito do mouse em qualquer lugar na tela e pressione Inspecionar elemento ou pressione `(ctrl + shift + i)` e clique em Console.
 
