@@ -117,4 +117,4 @@ export default {
 </style>
 ```
 
-![olavuee](assets/03.png)
+![olavuee](assets/02.png)
