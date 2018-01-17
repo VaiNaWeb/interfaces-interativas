@@ -9,7 +9,7 @@ Como aprendemos anteriormente, uma interface pode e deve ser divida em vários c
 
 Vue trabalha na estrutura de HTML, CSS e JS em um único arquivo, chamamos isso de **Single file components**, o componente inteiro em um arquivo.
 
-Um componente em Vue se divide em três tags: template, script, e style. Dentro da tag template é onde colocamos o HTML normal que já conhecemos, divs, headers, parágrafos, etc. Dentro de script colocamos o javascript. E por fim, em style colocamos o nosso CSS.
+Um componente em Vue se divide em três tags: template, script, e style. Dentro da tag template é onde colocamos o tags de conteúdo em HTML que já conhecemos, as divs, headers, parágrafos, etc. Dentro de script colocamos o javascript. E por fim, em style colocamos o nosso CSS.
 
 ```vue
 <template>
@@ -20,6 +20,17 @@ Um componente em Vue se divide em três tags: template, script, e style. Dentro 
 
 <style>
 </style>
+```
+
+Todo componente em Vue começa com um container, uma caixa, no template. Isso significa que não podemos colocar elementos soltos, exemplo:
+
+```vue
+<template>
+  <div>
+    <h1>Componente</h1>
+    <p>Novo componente em Vuejs muito top.</p>
+  </div>
+</template>
 ```
 
 Podemos usar um atributo em style chamado scoped, se usarmos, os estilos declarados no componente estilizam somente esse componente, o que pode ser bem útil em grandes aplicações.
@@ -105,4 +116,5 @@ export default {
 <style scoped>
 </style>
 ```
-![olavue](assets/03.png)
+
+![olavuee](assets/03.png)
