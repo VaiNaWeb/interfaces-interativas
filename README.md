@@ -16,14 +16,14 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 
 **Objetivos:** Introdução aos fundamentos básicos.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
-**Ferramentas e materiais de apoio:** <br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula01/desafios.md), [slides](https://slides.com/vainaweb/ii-01/)<br>
 **Duração:** 3 horas.
 
 ### Aula 02 - [Começando com VUE](aulas/aula02/aula.md)
 
 **Objetivos:** Conhecer os primeiros comandos do VueJS, entender o two-way data-binding e mais algumas coisas.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
-**Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula02/desafios.md), [slides](https://slides.com/vainaweb/ii-02/)<br>
 **Duração:** 3 horas.
 
 ### Aula 03 - [Criando novas páginas e componentes](aulas/aula03/aula.md)
