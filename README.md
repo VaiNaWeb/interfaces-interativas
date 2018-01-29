@@ -47,38 +47,37 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
-
-### Aula 06 - [Renderização Condicionais](aulas/aula05/aula.md)
+### Aula 06 - [Renderização Condicionais](aulas/aula06/aula.md)
 
 **Objetivos:** Aprender a aproveitar o poder das estruturas condicionais<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
-### Aula 07 - [Renderizando Listas](aulas/aula06/aula.md)
+### Aula 07 - [Renderizando Listas](aulas/aula07/aula.md)
 
 **Objetivos:** Aprender a aproveitar o poder das estruturas repetição<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
-### Aula 08 - [Comunicação entre componentes](aulas/aula07/aula.md)
+### Aula 08 - [Comunicação entre componentes](aulas/aula08/aula.md)
 
 **Objetivos:** Compreender e fazer uso da comunicação simples de propriedades entre componentes<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
-### Aula 09 - [Comunicação entre componentes com VUEX](aulas/aula08/aula.md)
+### Aula 09 - [Consumindo uma API](aulas/aula09/aula.md)
 
-**Objetivos:** Compreender e fazer uso de um dos métodos mais avançados para comunicação entre componentes usando o VUEX.<br>
+**Objetivos:** Entender sobre os protocólos HTTP, como fazer requisições, e consumir serviços.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
 
-### Aula 10 - [Consumindo uma API](aulas/aula09/aula.md)
+### Aula 10 - [Comunicação entre componentes com VUEX](aulas/aula10/aula.md)
 
-**Objetivos:** Entender sobre os protocólos HTTP, como fazer requisições, e consumir serviços.<br>
+**Objetivos:** Compreender e fazer uso de um dos métodos mais avançados para comunicação entre componentes usando o VUEX.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Duração:** 3 horas.
