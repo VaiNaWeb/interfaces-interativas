@@ -31,6 +31,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Criação de novos componentes e compreensão do vue-router.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula03/desafios.md), [slides](https://slides.com/vainaweb/ii-03/)<br>
 **Duração:** 3 horas.
 
 ### Aula 04 - [Eventos e métodos](aulas/aula04/aula.md)
@@ -38,13 +39,15 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Compreender como ouvir os eventos da página e disparar métodos.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula04/desafios.md), [slides](https://slides.com/vainaweb/ii-04/)<br>
 **Duração:** 3 horas.
 
-### Aula 05 - [Dados Computados](aulas/aula04/aula.md)
+### Aula 05 - [Dados Computados](aulas/aula05/aula.md)
 
 **Objetivos:** Compreender como funcionam e fazer uso dos dados computados.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula05/desafios.md), [slides](https://slides.com/vainaweb/ii-05/)<br>
 **Duração:** 3 horas.
 
 ### Aula 06 - [Renderização Condicionais](aulas/aula06/aula.md)
@@ -52,6 +55,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Aprender a aproveitar o poder das estruturas condicionais<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula06/desafios.md), [slides](https://slides.com/vainaweb/ii-06/)<br>
 **Duração:** 3 horas.
 
 ### Aula 07 - [Renderizando Listas](aulas/aula07/aula.md)
@@ -59,6 +63,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Aprender a aproveitar o poder das estruturas repetição<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula07/desafios.md), [slides](https://slides.com/vainaweb/ii-07/)<br>
 **Duração:** 3 horas.
 
 ### Aula 08 - [Comunicação entre componentes](aulas/aula08/aula.md)
@@ -66,6 +71,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Compreender e fazer uso da comunicação simples de propriedades entre componentes<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula08/desafios.md), [slides](https://slides.com/vainaweb/ii-08/)<br>
 **Duração:** 3 horas.
 
 ### Aula 09 - [Consumindo uma API](aulas/aula09/aula.md)
@@ -73,6 +79,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Entender sobre os protocólos HTTP, como fazer requisições, e consumir serviços.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula09/desafios.md), [slides](https://slides.com/vainaweb/ii-09/)<br>
 **Duração:** 3 horas.
 
 ### Aula 10 - [Comunicação entre componentes com VUEX](aulas/aula10/aula.md)
@@ -80,4 +87,5 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 **Objetivos:** Compreender e fazer uso de um dos métodos mais avançados para comunicação entre componentes usando o VUEX.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
+**Ferramentas e materiais de apoio:** [Desafios](aulas/aula10/desafios.md), [slides](https://slides.com/vainaweb/ii-10/)<br>
 **Duração:** 3 horas.
