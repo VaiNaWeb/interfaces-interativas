@@ -62,5 +62,25 @@ Componente gato:
   }
 </script>
 ```
+Prontinho! Agora já entendemos como passar propriedades entre componentes. Vamos reusar esse componente! Por que no criar uma interface cheia de gatos?
 
+Componente gataria:
+```html
+<template>
+  <div>
+    <Gato
+      nome='Gatonildo da Silva'
+      imagem='imagem01.jpg'/>
+    <Gato
+      nome='Gatiane Mello'
+      imagem='imagem02.jpg'/>
+    <Gato
+      nome='Enzo dos Santos'
+      imagem='imagem03.jpg'/>
+    <Gato
+      nome='Valentina de Sá'
+      imagem='imagem04.jpg'/>
+  </div>
+</template>
+```
 ![exemplo de componente](assets/componentes.png "exemplo de componente")
