@@ -8,8 +8,6 @@ Navegando numa famosa rede social, podemos perceber que há um componente que se
 
 Há um componente que queremos reusar, o componente gato. Esse componente contém duas propriedades, um nome e uma foto. Antes de tudo, em nosso componente gataria vamos adicionar apenas um gato para testar.
 
-![exemplo de componente](assets/componentevazio.png "exemplo de componente")
-
 Componente gataria:
 ```html
 <template>
@@ -27,7 +25,7 @@ Componente gato:
    </div>
 </template>
 ```
-![exemplo de componente](assets/componente.png "exemplo de componente")
+![exemplo de componente](assets/componentevazio.png "exemplo de componente")
 
 Algo importante que precisamos entender aqui, é que, como vamos adicionar esse componente mais de uma vez em nossa página, não seria interessante que as propriedades desse componente fossem passadas dentro dele. É uma boa ideia enviar essas propriedades através do componente pai. Dessa forma podemos colocar várias propriedades diferentes em cada vez que for preciso chama-lo.
 
@@ -62,6 +60,8 @@ Componente gato:
   }
 </script>
 ```
+![exemplo de componente](assets/componente.png "exemplo de componente")
+
 Prontinho! Agora já entendemos como passar propriedades entre componentes. Vamos reusar esse componente! Por que no criar uma interface cheia de gatos?
 
 Componente gataria:
