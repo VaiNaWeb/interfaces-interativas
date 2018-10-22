@@ -84,7 +84,7 @@ Nesse módulo vamos criar **Interfaces Interativas** com VueJS. :rocket:
 
 ### Aula 10 - [Comunicação entre componentes com VUEX](aulas/aula10/aula.md)
 
-**Objetivos:** Compreender e fazer uso de um dos métodos mais avançados para comunicação entre componentes usando o VUEX.<br>
+**Objetivos:** Compreender e fazer uso da forma mágica de gerenciar estados de forma centralizada usando vuex.<br>
 **Formato de apresentação:** Apresentação em slides, demonstrações, exercícios de fixação com desafios.<br>
 **Ferramentas e materiais de apoio:**<br>
 **Ferramentas e materiais de apoio:** [Desafios](aulas/aula10/desafios.md), [slides](https://slides.com/vainaweb/ii-10/)<br>
