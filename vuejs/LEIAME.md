@@ -1,5 +1,3 @@
-Vamos criar **Interfaces Interativas** com VueJS. :rocket:
-
 ### Aula 01 - [Introdução](capitulos/01/aula.md)
 
 **Objetivos:** Introdução aos fundamentos básicos.<br>
