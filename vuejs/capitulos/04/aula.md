@@ -64,7 +64,7 @@ No próximo exemplo, queremos capturar o evento de click e disparar um método q
 <template>
   <div>
     <p>Clique para fotografar</p>
-    <img src="https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/camera.png?raw=true"
+    <img src="https://github.com/VaiNaWeb/interfaces-interativas/blob/master/vuejs/capitulos/04/assets/camera.png?raw=true"
          @click>
     <img :src="foto">
   </div>
@@ -91,7 +91,7 @@ Abaixo de data, adicionamos methods, um lugar onde podemos criar nossos métodos
 <template>
   <div>
     <p>Clique para fotografar</p>
-    <img src="https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/camera.png?raw=true"
+    <img src="https://github.com/VaiNaWeb/interfaces-interativas/blob/master/vuejs/capitulos/04/assets/camera.png?raw=true"
          @click="fotografa()">
     <img :src="foto">
   </div>
@@ -107,7 +107,7 @@ export default {
   },
   methods: {
     fotografa() {
-      return this.foto = 'https://github.com/VaiNaWeb/progressive-web-apps/blob/master/aulas/aula04/assets/img05.jpg?raw=true'
+      return this.foto = 'https://github.com/VaiNaWeb/interfaces-interativas/blob/master/vuejs/capitulos/04/assets/img05.jpg?raw=true'
     }
   }
 }
